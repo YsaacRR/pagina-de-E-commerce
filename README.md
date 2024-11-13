@@ -9,6 +9,6 @@ interesante aprender como es el desarollo para crear una pagina web
 
 ### Te muestro el codigo con el que se estructuró esta pagina web 
 
-![Vista previa](https://imgur.com/a/3MDuy8Q)
+![Vista previa](https://i.ibb.co/6b9RM6R/Uoa01bT.png)
 
 
